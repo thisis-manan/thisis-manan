@@ -20,10 +20,6 @@
 -> Exploring New Tools And Technologies...
 '''
 
-class Developer:
-    name   = "Manan Agarwal"
-    role   = "Full-Stack Software Engineer"
-    handle = "thisis-manan"
 ```
 <!-- 
 ### 👋 About Me
