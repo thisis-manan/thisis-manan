@@ -22,19 +22,20 @@
 
 ```
 <!-- 
-### 👋 About Me
+### ✦ About Me
 
 I'm **Manan Agarwal**, a full-stack software engineer who enjoys building reliable web applications and backend systems — and contributing to the open-source tools I rely on. I work across the stack with **TypeScript, React, and Node.js**, write services in **Python**, and ship with **Docker, Kubernetes, and AWS**. I care about clean, maintainable code and building things that solve real problems.
 -->
-### 🌱 Open Source Contributions
+### ✦ Open Source Contributions
 
 
 | Project | Contribution | Pull Request |
 | :--- | :--- | :--- |
 | **[Jaeger UI](https://github.com/jaegertracing/jaeger-ui)**<br/><sub>CNCF · distributed tracing</sub> | Migrated the build tooling from **npm → pnpm** | [![PR #4137](https://img.shields.io/badge/%234137-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/jaegertracing/jaeger-ui/pull/4137) |
 | **[Studio JSON Schema](https://github.com/ioflux-org/studio-json-schema)**<br/><sub>schema tooling</sub> | Added an `F` keyboard shortcut to toggle fullscreen | [![PR #355](https://img.shields.io/badge/%23355-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ioflux-org/studio-json-schema/pull/355) |
+| **[Studio JSON Schema](https://github.com/ioflux-org/studio-json-schema)**<br/><sub>schema tooling</sub> | Correct search bar and theme toggle placement in Firefox | [![PR #375](https://img.shields.io/badge/%23375-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ioflux-org/studio-json-schema/pull/375) |
 
-### 💻 Tech Stack
+### ✦ Tech Stack
 |  |  |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
@@ -44,7 +45,7 @@ I'm **Manan Agarwal**, a full-stack software engineer who enjoys building reliab
 | **DevOps** | ![AWS](https://raw.githubusercontent.com/thisis-manan/thisis-manan/main/assets/aws-badge.svg) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-### 📫 Connect With Me
+### ✦ Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisis.mananagarwal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-agarwal-a97060280/)
