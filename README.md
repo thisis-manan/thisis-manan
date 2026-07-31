@@ -18,6 +18,7 @@
 ✦ Love Building Software...
 ✦ Contributing To Open Source...
 ✦ Exploring New Tools And Technologies...
+
 '''
 
 ```
@@ -32,6 +33,7 @@ I'm **Manan Agarwal**, a full-stack software engineer who enjoys building reliab
 | Project | Contribution | Pull Request |
 | :--- | :--- | :--- |
 | **[Jaeger UI](https://github.com/jaegertracing/jaeger-ui)**<br/><sub>CNCF · distributed tracing</sub> | Migrated the build tooling from **npm → pnpm** | [![PR #4137](https://img.shields.io/badge/%234137-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/jaegertracing/jaeger-ui/pull/4137) |
+| **[Jaeger UI](https://github.com/jaegertracing/jaeger-ui)**<br/><sub>CNCF · Distributed Tracing</sub> |Prevent incorrect partial rounding-up of durations | [![PR #4247](https://img.shields.io/badge/%234247-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/jaegertracing/jaeger-ui/pull/4247) |
 | **[Studio JSON Schema](https://github.com/ioflux-org/studio-json-schema)**<br/><sub>schema tooling</sub> | Added an `F` keyboard shortcut to toggle fullscreen | [![PR #355](https://img.shields.io/badge/%23355-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ioflux-org/studio-json-schema/pull/355) |
 | **[Studio JSON Schema](https://github.com/ioflux-org/studio-json-schema)**<br/><sub>schema tooling</sub> | Correct search bar and theme toggle placement in Firefox | [![PR #375](https://img.shields.io/badge/%23375-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ioflux-org/studio-json-schema/pull/375) |
 
