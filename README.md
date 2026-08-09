@@ -1,3 +1,4 @@
+
 ```yaml
 '''
 ██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗
@@ -21,13 +22,11 @@
 '''
 
 ```
+<!-- 
 ### ✦ About Me
 
-CS undergrad who builds full-stack web apps and backend services, and contributes to
-open source. I mostly work in TypeScript and Node.js on the web side, write Python for
-tooling and scrapers, and deploy with Docker and AWS. Lately I've been contributing to
-CNCF Jaeger and reading up on how distributed tracing and metrics fit together.
-
+I'm **Manan Agarwal**, a full-stack software engineer who enjoys building reliable web applications and backend systems — and contributing to the open-source tools I rely on. I work across the stack with **TypeScript, React, and Node.js**, write services in **Python**, and ship with **Docker, Kubernetes, and AWS**. I care about clean, maintainable code and building things that solve real problems.
+-->
 ### ✦ Open Source Contributions
 
 
@@ -42,10 +41,10 @@ CNCF Jaeger and reading up on how distributed tracing and metrics fit together.
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Languages](https://skillicons.dev/icons?i=js,ts,python) |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind) |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap) |
 | **Backend** | ![Backend](https://skillicons.dev/icons?i=nodejs,express) |
-| **Databases** | ![Databases](https://skillicons.dev/icons?i=postgres,mongodb) |
-| **DevOps** | ![DevOps](https://skillicons.dev/icons?i=aws,docker) |
+| **Databases** | ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql) |
+| **DevOps** | ![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx) |
 | **Tools** | ![Tools](https://skillicons.dev/icons?i=git,github,npm,postman) |
 
 ### ✦ Connect With Me
@@ -53,3 +52,8 @@ CNCF Jaeger and reading up on how distributed tracing and metrics fit together.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisis.mananagarwal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-agarwal-a97060280/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/clDMKtVaNM/)
+<!-- 
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RESUME_URL_TODO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](PORTFOLIO_URL_TODO)
+
+TODO: replace RESUME_URL_TODO and PORTFOLIO_URL_TODO with your real links -->
