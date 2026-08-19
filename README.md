@@ -15,10 +15,6 @@
 ██║    ██║  ██║██║ ╚═╝ ██║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║██║ ╚████║
 ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-✦ Love Building Software...
-✦ Contributing To Open Source...
-✦ Exploring New Tools And Technologies...
-
 '''
 
 ```
